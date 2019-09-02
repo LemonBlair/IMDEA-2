@@ -1,0 +1,14 @@
+*IDT (página para pedir primers)
+
+  Usuario: PRM
+  Contraseña: imdea2019
+
+*Gmail (inventarios, protocolos, pedidos...)
+  
+  Correo: cmrhlabimdea@gmail.com
+  Contraseña: imdea2019
+
+*Gestor de incidencias
+  
+  Correo: marta.torrecilla@imdea.org
+  Contraseña: Imdea2019
