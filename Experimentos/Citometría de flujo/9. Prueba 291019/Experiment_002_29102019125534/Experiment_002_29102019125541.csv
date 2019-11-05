@@ -1,0 +1,5 @@
+Experiment Name,Specimen Name,Tube Name,Record Date,$OP,GUID,P1 #Events,P1 %Parent,P1 PE-A Mean,P3 #Events,P3 %Parent,P3 PE-A Mean,P4 #Events,P4 %Parent,P4 PE-A Mean,P2 #Events,P2 %Parent,P2 PE-A Mean
+Experiment_002,Specimen_001,TMRM,"Oct 29, 2019 11:51:16 AM",PRMGroup ,3c09f917-fe99-43a6-80b3-0bd51b70fb44 ,8597,86.0,58307,4278,49.8,95784,4163,48.4,22272,479,4.8,4060
+
+Experiment Name,Specimen Name,Tube Name,Record Date,$OP,GUID,P1 #Events,P1 %Parent,P1 PE-A Mean,P2 #Events,P2 %Parent,P2 PE-A Mean
+Experiment_002,Specimen_001,Mito 2um,"Oct 29, 2019 12:10:37 PM",PRMGroup ,0d118292-04f8-4af1-9a7a-bd64f9cca971 ,8302,83.0,13,618,6.2,284
